@@ -54,3 +54,5 @@ The table below shows the accuracy scores for each algorithm across different ve
 - **GaussianNB** and **KNN** performed best overall with embeddings.
 - **KMeans** (unsupervised) lagged behind supervised methods, but embeddings still improved its clustering quality.
 
+  "For step-by-step exploration see the Jupyter notebook. For direct execution, use the Python script."
+
